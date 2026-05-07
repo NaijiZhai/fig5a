@@ -53,5 +53,4 @@ ${WORK_DIR}/bed/CPD_NHF1_1h.merged.bed
 ${WORK_DIR}/bed/PP64_NHF1_1h.merged.bed
 ${WORK_DIR}/profiles_simple/selected_transcripts_after_6kb.tsv
 ${WORK_DIR}/profiles_simple/fig5a_raw.png
-${WORK_DIR}/profiles_simple/fig5a_paper_like_x1.6.png
 ```
